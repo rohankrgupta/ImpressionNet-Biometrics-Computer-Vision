@@ -17,3 +17,8 @@ We have provided a model trained on annotated AFLW Database for trustworthiness 
 Paper Link: https://drive.google.com/file/d/1lj-KOLVXjn4_WAs5_fzauvdCuc0lffk9/view
 
 Acceptance Letter: https://drive.google.com/file/d/1hLSjF34aKzfPyydHUI4bC8QtB0P3kHp1/view
+
+## Sample Videos
+https://drive.google.com/file/d/1aO90Ei_NnDvHmrzT9xT3ERGmbaP-RRzP/view?usp=sharing
+
+https://drive.google.com/file/d/1t1IvGsZpQQaEL8enA_xV9L-OqQVEWEBx/view?usp=sharing
