@@ -14,9 +14,8 @@ In order to train your model, you need to write your own dataloader. The image t
 We have provided a model trained on annotated AFLW Database for trustworthiness attribute score prediction for testing. You can download it from [Google Drive] (https://drive.google.com/drive/folders/1WRn8qFqozmPJlH0Vev2K7--V6OL7QUiL?usp=sharing), and test it using 'main.py'.  
 
 ## Update - Paper Published at [International Conference on Agents and Artificial Intelligence (ICAART) 2022](http://www.icaart.org/)
-Paper Link: https://drive.google.com/file/d/1wyyhXizfWXDdJ3Iglld9ZrBp8ruCcl7H/view?usp=sharing
+Paper Link: https://www.scitepress.org/PublicationsDetail.aspx?ID=HtiHJrhSyBc=&t=1
 
-Acceptance Letter: https://drive.google.com/file/d/10PU3K2SCrdnfA7UZzx5K3fJaRJJGc3DM/view?usp=sharing
 
 ## Sample Videos
 https://drive.google.com/file/d/1aO90Ei_NnDvHmrzT9xT3ERGmbaP-RRzP/view?usp=sharing
